@@ -3,6 +3,7 @@
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
 - <b>Security Home Labs</b>
+  - [AD Kerberoasting Simulation](https://github.com/datcumarius/ad-kerberoasting-attack-defense)
   - [Azure HoneyPot](https://github.com/datcumarius/azure-sentinel-honeypot)
 
 
