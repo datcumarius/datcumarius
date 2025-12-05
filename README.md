@@ -5,6 +5,8 @@
 - <b>Security Home Labs</b>
   - [AD Kerberoasting Simulation](https://github.com/datcumarius/ad-kerberoasting-attack-defense)
   - [Azure HoneyPot](https://github.com/datcumarius/azure-sentinel-honeypot)
+- <b>Python Projects</b>
+  - [Advent of Code - 2025](https://github.com/datcumarius/Advent-of-Code-2025)
 
 
 <h2> 🤳 Connect with me:</h2>
